@@ -1,0 +1,14 @@
+html {
+	background-color: #000000;
+}
+
+#botao {
+	color: white;
+	position: absolute;
+	text-align: center;
+	margin: 0;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+}
